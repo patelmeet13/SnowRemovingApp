@@ -4,7 +4,6 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-//Hello
 public class HomeScreen extends AppCompatActivity {
 
     @Override
